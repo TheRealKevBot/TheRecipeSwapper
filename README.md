@@ -1,14 +1,14 @@
 # The Recipe Swapper
 
-If you love eating delicous food or cooking delicious food then this is for you!
+If you love eating delicious food or cooking delicious food then this is for you!
 
-Thi ia an app where foodies of all kind can go not only find new recipes to try new delicious foods but also to learn more about the food wrold from our blog post section. 
+This is an app where foodies of all kind can go not only find new recipes to try new delicious foods but also to learn more about the food world from our blog post section. 
 
 ## General Info
-This web based app allows users to sign-up and create an account with us. Our home page allows users to view the most currently liseted reciepes. The feed of reciepes will show you dirrerent cards listing the name of the dish, the creator, the total amount of time needed to cook and prepare, as well their statemen. Should you decide to cook one of these delicious dishes you will be then directed to the full recipe which will list the ingredents as well as the steps needed for completion. 
+This web based app allows users to sign-up and create an account with us. Our home page allows users to view the most currently listed recipes. The feed of recipes will show you different cards listing the name of the dish, the creator, the total amount of time needed to cook and prepare, as well their statemen. Should you decide to cook one of these delicious dishes you will be then directed to the full recipe which will list the ingredients as well as the steps needed for completion. 
 
 ## Inspiration
-My main driving force for creating this project is mainly due to my mother still living in the 21st century having mutliple cookbooks and recipe cards around. I realized there was a better way to organize and share your favorite reciepes with not only your loved ones but with anyone who enjoys delicious food! 
+My main driving force for creating this project is mainly due to my mother still living in the 21st century having multiple cookbooks and recipe cards around. I realized there was a better way to organize and share your favorite recipes with not only your loved ones but with anyone who enjoys delicious food! 
 
 ## Technologies
 💻 CSS <br />
