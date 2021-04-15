@@ -1,0 +1,166 @@
+body {
+    background-color: azure;
+    font-family: 'Oswald', sans-serif;
+}
+
+.title {
+    color: salmon;
+    text-align: center;
+    padding: 1.5rem;
+    margin: 1.5rem;
+    font-size: 32pt;
+    text-shadow: 1.25px 0px 1.5px salmon;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: salmon; 
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    float: left;
+    display: block;
+    color: azure;
+    text-align: center;
+    padding: .75rem;
+    margin: .27rem;
+    text-decoration: none;
+}
+
+li a:hover, .account-dropdown:hover .account-btn {
+    color: greenyellow;
+}
+
+li.account-dropdown {
+    display: inline-block;
+}
+ 
+.account-content {
+    display: none;
+    position: absolute;
+    background-color: salmon;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+.account-content a {
+    color: azure;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    z-index: 1;
+}
+
+.account-content a:hover {
+    background-color: salmon;
+}
+
+.account-dropdown:hover .account-content {
+    display: block;
+}
+
+.search-container {
+    float: right;
+} 
+
+.search {
+    padding: 7.5px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+    color: azure;
+    background-color: salmon;
+    box-shadow: 2px 8px 16px 2px rgba(0, 0, 0, 0.33);
+}
+
+
+button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: salmon;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+    ;
+}
+
+.search-container button:hover {
+    background: greenyellow;
+} 
+
+.delete-button{
+    background-color: aqua;
+    box-shadow: 2px 8px 16px 2px rgba(3, 3, 3, 0.33)
+}
+
+.profile-container {
+    color: salmon;
+} 
+
+.recipe-card {
+    float: left;
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 1rem;
+    color: salmon;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 550px;
+    height: 600px;
+    box-sizing: border-box;
+}
+
+
+.recipe-img{
+    max-width: 500px;
+    max-height: 275px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 2px 8px 16px 2px rgba(0, 0, 0, 0.33)
+}
+
+.recipe-name, .recipe-time, .recipe-creator, .recipe-description{
+    text-align: center;
+    padding: .1rem;
+    margin: 1.25rem;
+} 
+
+.blog-card{
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    color: salmon;
+    width: auto;
+    height: auto;
+    font-size: 27pt;
+}
+
+.blog-image{
+    max-width: 650px;
+    max-height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 2px 8px 16px 2px rgba(0, 0, 0, 0.33)
+}
+
+.blog-content{
+    color: salmon;
+    text-align: justify;
+    padding: 1rem;
+    margin: 1rem;
+    font-size: 14pt;
+}
