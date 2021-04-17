@@ -4,6 +4,8 @@ If you love eating delicious food or cooking delicious food then this is for you
 
 This is an app where foodies of all kind can go not only find new recipes to try new delicious foods but also to learn more about the food world from our blog post section. 
 
+[Demo](https://youtu.be/t3XlJVkoJoA)
+
 ## General Info
 This web based app allows users to sign-up and create an account with us. Our home page allows users to view the most currently listed recipes. The feed of recipes will show you different cards listing the name of the dish, the creator, the total amount of time needed to cook and prepare, as well their statemen. Should you decide to cook one of these delicious dishes you will be then directed to the full recipe which will list the ingredients as well as the steps needed for completion. 
 
